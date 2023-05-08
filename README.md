@@ -1,5 +1,7 @@
 # T3_patrones
-¡Bienvenidos al repositorio del grupo 3 del curso de Reconocimiento de Patrones con aprendizaje automático!  Este repositorio contiene todo el material realizado como Challenges, Prácticas y Proyecto Final del curso. Esperamos que les sea útil, y que disfruten tanto como nosotros de la Inteligencia Artificial aplicada en Ingeniería Biomédica. :shipit:
+¡Bienvenidos al repositorio del grupo 3 del curso de Reconocimiento de Patrones con aprendizaje automático!  
+
+Este repositorio contiene todo el material realizado como Challenges, Prácticas y Proyecto Final del curso. Esperamos que les sea útil, y que disfruten tanto como nosotros de la Inteligencia Artificial aplicada en Ingeniería Biomédica. :shipit:
 
 ## Conjunto de datos :brain:
 Los conjuntos de datos se pueden encontrar en la carpeta datasets. Cada conjunto de datos se proporciona su link y se describe a continuación:
