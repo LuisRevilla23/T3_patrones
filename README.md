@@ -15,6 +15,6 @@ Los conjuntos de datos se pueden encontrar en la carpeta datasets. Cada conjunto
 
 ## Miembros del equipo :nerd_face:
 
-Este repositorio fue realizado por [Luis Revilla](https://www.linkedin.com/in/luis-carlos-revilla-dominguez-435568194/), [Emilio Ochoa](https://www.linkedin.com/in/emilio-jos%C3%A9-ochoa-alva-425197131/) y[Sebastián Ríos](https://www.linkedin.com/in/sebastian-adolfo-rios-quintanilla-b83184268/)
+Este repositorio fue realizado por [Luis Revilla](https://www.linkedin.com/in/luis-carlos-revilla-dominguez-435568194/), [Emilio Ochoa](https://www.linkedin.com/in/emilio-jos%C3%A9-ochoa-alva-425197131/) y [Sebastián Ríos](https://www.linkedin.com/in/sebastian-adolfo-rios-quintanilla-b83184268/)
 
 ![Biomedical Engineering Programmers Working.](https://user-images.githubusercontent.com/43320984/236865491-da91025f-d760-4749-8033-1f5bc9c95c47.png)
