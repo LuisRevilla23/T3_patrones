@@ -13,6 +13,8 @@ Los conjuntos de datos se pueden encontrar en la carpeta datasets. Cada conjunto
 | Siderophores database   | Dataset utilizado para conocer las características químicas y funcionales de agentes quelantes en diversos microorganismos  | https://github.com/inefable12/siderophores_database  |
 | PAF Challenge database  | Esta base de datos de registros de ECG de dos canales se ha creado para su uso en el Computers in Cardiology Challenge 2001, un concurso abierto con el objetivo de desarrollar métodos automatizados para predecir la fibrilación auricular paroxística (FAP).  | https://physionet.org/files/afpdb/1.0.0/  |
 
+| Mice Protein Expression Data Set  | The data set consists of the expression levels of 77 proteins/protein modifications that produced detectable signals in the nuclear fraction of cortex. There are 38 control mice and 34 trisomic mice (Down syndrome), for a total of 72 mice. In the experiments, 15 measurements were registered of each protein per sample/mouse. Therefore, for control mice, there are 38x15, or 570 measurements, and for trisomic mice, there are 34x15, or 510 measurements. The dataset contains a total of 1080 measurements per protein. Each measurement can be considered as an independent sample/mouse. | https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression#  |
+
 ## Miembros del equipo :nerd_face:
 
 Este repositorio fue realizado por [Luis Revilla](https://www.linkedin.com/in/luis-carlos-revilla-dominguez-435568194/), [Emilio Ochoa](https://www.linkedin.com/in/emilio-jos%C3%A9-ochoa-alva-425197131/) y [Sebastián Ríos](https://www.linkedin.com/in/sebastian-adolfo-rios-quintanilla-b83184268/)
